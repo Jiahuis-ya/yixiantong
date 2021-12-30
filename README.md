@@ -17,7 +17,7 @@ $ npm run lint # eslint检查
 ```bash
 $ git push Gitee master # 提交gitee
 
-$ git push Github master # 提交github
+$ git push GitHub master # 提交github
 ```
 
 
