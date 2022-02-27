@@ -11,7 +11,7 @@
 ![详情页](https://gitee.com/Jiahuis-ya/yixiantong_vue/raw/master/src/assets/Img/4.jpg)
 
 ### 城市选择
-![城市选择](https://gitee.com/Jiahuis-ya/yixiantong/raw/master/src/assets/Img/5.jpg)
+![城市选择](https://gitee.com/Jiahuis-ya/yixiantong_vue/raw/master/src/assets/Img/5.jpg)
 ### `package.json` script
 
 ```bash
